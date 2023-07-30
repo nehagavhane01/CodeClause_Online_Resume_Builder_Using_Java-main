@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="CodeClause_Online_Resume_Builder_Using_Java-main/CV Generator/src"/>
+	<classpathentry kind="lib" path="CodeClause_Online_Resume_Builder_Using_Java-main/CV Generator/dist/CV_Generator.jar"/>
+	<classpathentry kind="lib" path="CodeClause_Online_Resume_Builder_Using_Java-main/CV Generator/dist/lib/itextpdf-5.5.4.jar"/>
+	<classpathentry kind="lib" path="CodeClause_Online_Resume_Builder_Using_Java-main/CV Generator/dist/lib/rs2xml.jar"/>
+	<classpathentry kind="lib" path="CodeClause_Online_Resume_Builder_Using_Java-main/CV Generator/dist/lib/sqlitejdbc-v056.jar"/>
+	<classpathentry kind="output" path="CodeClause_Online_Resume_Builder_Using_Java-main/CV Generator/build/classes"/>
+</classpath>
